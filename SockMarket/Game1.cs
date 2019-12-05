@@ -7,8 +7,6 @@ namespace SockMarket
     /// </summary>
     public class Game1 : Nez.Core
     {
-        GraphicsDeviceManager graphics;
-        
         public Game1()
         {
             Content.RootDirectory = "Content";
