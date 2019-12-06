@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockMarket.Game", "SockMark
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nez", "Nez.Portable\Nez.csproj", "{61C4A46F-E688-4364-885B-C53D1F5F39DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockMarket.Models", "SockMarket.Models\SockMarket.Models.csproj", "{31EA9993-47CE-4442-8E49-03E425F35081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockMarket.BL", "SockMarket.BL\SockMarket.BL.csproj", "{4A759838-1985-4918-AF06-3EB989F9C7B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{61C4A46F-E688-4364-885B-C53D1F5F39DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61C4A46F-E688-4364-885B-C53D1F5F39DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61C4A46F-E688-4364-885B-C53D1F5F39DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EA9993-47CE-4442-8E49-03E425F35081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EA9993-47CE-4442-8E49-03E425F35081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EA9993-47CE-4442-8E49-03E425F35081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EA9993-47CE-4442-8E49-03E425F35081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A759838-1985-4918-AF06-3EB989F9C7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A759838-1985-4918-AF06-3EB989F9C7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A759838-1985-4918-AF06-3EB989F9C7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A759838-1985-4918-AF06-3EB989F9C7B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
