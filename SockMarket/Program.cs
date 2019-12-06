@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SockMarket
+namespace SockMarket.Game
 {
     /// <summary>
     /// The main class.

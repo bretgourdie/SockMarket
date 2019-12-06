@@ -1,6 +1,4 @@
-﻿using Microsoft.Xna.Framework;
-
-namespace SockMarket
+﻿namespace SockMarket.Game
 {
     /// <summary>
     /// This is the main type for your game.

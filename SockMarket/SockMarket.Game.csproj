@@ -9,8 +9,8 @@
     <ProjectGuid>{41D6C0ED-F15E-492C-87C4-B007415F71CC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SockMarket</RootNamespace>
-    <AssemblyName>SockMarket</AssemblyName>
+    <RootNamespace>SockMarket.Game</RootNamespace>
+    <AssemblyName>SockMarket.Game</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MonoGamePlatform>DesktopGL</MonoGamePlatform>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>

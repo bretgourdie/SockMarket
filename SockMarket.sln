@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockMarket", "SockMarket\SockMarket.csproj", "{41D6C0ED-F15E-492C-87C4-B007415F71CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SockMarket.Game", "SockMarket\SockMarket.Game.csproj", "{41D6C0ED-F15E-492C-87C4-B007415F71CC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nez", "Nez.Portable\Nez.csproj", "{61C4A46F-E688-4364-885B-C53D1F5F39DF}"
 EndProject
