@@ -15,9 +15,12 @@ namespace SockMarket.Models
 
         public Space CurrentSpace;
 
+        public List<Rule> Cheats { get; set; }
+
         public Player()
         {
             SockPiles = new List<SockPile>();
+            Cheats = new List<Rule>();
         }
     }
 }

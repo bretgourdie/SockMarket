@@ -44,6 +44,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Nez.Portable\Nez.csproj">
+      <Project>{61c4a46f-e688-4364-885b-c53d1f5f39df}</Project>
+      <Name>Nez</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SockMarket.Models\SockMarket.Models.csproj">
       <Project>{31ea9993-47ce-4442-8e49-03e425f35081}</Project>
       <Name>SockMarket.Models</Name>

@@ -12,6 +12,8 @@ namespace SockMarket.Models.BoardEntities
 
         List<SpaceEvent> SpaceEvents { get; set; }
 
+        List<Rule> Rules { get; set; }
+
         int StartSpaceId { get; set; }
 
         public Board()
@@ -19,6 +21,7 @@ namespace SockMarket.Models.BoardEntities
             Spaces = new List<Space>();
             Paths = new List<Path>();
             SpaceEvents = new List<SpaceEvent>();
+            Rules = new List<Rule>();
         }
     }
 }
