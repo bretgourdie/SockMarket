@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BoardEntities\Board.cs" />
+    <Compile Include="BoardEntities\BoardState.cs" />
+    <Compile Include="BoardEntities\Item.cs" />
     <Compile Include="BoardEntities\Path.cs" />
     <Compile Include="BoardEntities\Rule.cs" />
     <Compile Include="BoardEntities\Space.cs" />
