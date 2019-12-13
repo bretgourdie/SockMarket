@@ -45,9 +45,11 @@
     <Compile Include="BoardEntities\BoardState.cs" />
     <Compile Include="BoardEntities\Item.cs" />
     <Compile Include="BoardEntities\Path.cs" />
+    <Compile Include="BoardEntities\RoundPhase.cs" />
     <Compile Include="BoardEntities\Rule.cs" />
     <Compile Include="BoardEntities\Space.cs" />
     <Compile Include="BoardEntities\SpaceEvent.cs" />
+    <Compile Include="BoardEntities\TurnPhase.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="BoardEntities\Point2D.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
