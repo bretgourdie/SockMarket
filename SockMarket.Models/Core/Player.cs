@@ -1,7 +1,7 @@
 ﻿using SockMarket.Models.BoardEntities;
 using System.Collections.Generic;
 
-namespace SockMarket.Models
+namespace SockMarket.Models.Core
 {
     public class Player
     {

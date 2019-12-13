@@ -1,4 +1,6 @@
-﻿namespace SockMarket.Models.BoardEntities
+﻿using SockMarket.Models.BoardEntities;
+
+namespace SockMarket.Models.Core
 {
     public abstract class Rule
     {

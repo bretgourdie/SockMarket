@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using SockMarket.Models.Core;
+using System.Collections.Generic;
 
 namespace SockMarket.Models.BoardEntities
 {

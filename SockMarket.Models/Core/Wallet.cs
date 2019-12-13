@@ -1,4 +1,4 @@
-﻿namespace SockMarket.Models
+﻿namespace SockMarket.Models.Core
 {
     public class Wallet
     {

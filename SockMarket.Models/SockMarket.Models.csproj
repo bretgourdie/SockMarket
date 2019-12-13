@@ -46,15 +46,15 @@
     <Compile Include="BoardEntities\Item.cs" />
     <Compile Include="BoardEntities\Path.cs" />
     <Compile Include="BoardEntities\RoundPhase.cs" />
-    <Compile Include="BoardEntities\Rule.cs" />
+    <Compile Include="Core\Rule.cs" />
     <Compile Include="BoardEntities\Space.cs" />
     <Compile Include="BoardEntities\SpaceEvent.cs" />
     <Compile Include="BoardEntities\TurnPhase.cs" />
-    <Compile Include="Player.cs" />
+    <Compile Include="Core\Player.cs" />
     <Compile Include="BoardEntities\Point2D.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SockPile.cs" />
-    <Compile Include="Wallet.cs" />
+    <Compile Include="Core\SockPile.cs" />
+    <Compile Include="Core\Wallet.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Nez.Portable\Nez.csproj">
